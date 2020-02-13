@@ -209,11 +209,11 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
     }
 }
 
-@media (min-width: 500px) {
+/* @media (min-width: 500px) {
     .intro {
         background: #888888;
     }
-}
+} */
 
 @media (min-width: 600px) {
     .intro {
