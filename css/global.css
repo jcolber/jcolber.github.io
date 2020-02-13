@@ -199,10 +199,10 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	padding: 0;
 	background: url(../images/resized/Skyline-Arch.jpg) no-repeat center center fixed;
 	background-color: #e5e5e5;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
+	-webkit-background-size: fixed;
+	-moz-background-size: fixed;
+	background-size: fixed;
+	-o-background-size: fixed;
 }
 
 /* .intro {
